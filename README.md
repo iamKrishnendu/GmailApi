@@ -1,5 +1,5 @@
 # Test Framework setup guide for Gmail API
-This is playground of Gmail API tests
+This is a playground of Gmail API tests
 
 # Table of Content
   1. [Introduction](#introduction)
