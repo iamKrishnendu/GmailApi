@@ -23,10 +23,11 @@ This is playground of Gmail API tests
   * [VS Code IDE](https://code.visualstudio.com/)
 
 ## How to setup
-At first clone the framework [repository](https://github.com/iamKrishnendu/GmailApi.git) in your local system. Run the below command to clone the repostory using [Git Bash](https://git-scm.com/downloads)
+At first clone the framework [repository](https://github.com/iamKrishnendu/GmailApi.git) in your local. Run the below command to clone the repostory using [Git Bash](https://git-scm.com/downloads)
 ```
 $ git clone https://github.com/iamKrishnendu/GmailApi.git
 ```
+Follow the steps to download and install Node.js into the system
 ##### On MacOs
   *  Download and installation guide available [here](https://nodejs.org/en/download/package-manager/#macos)
 ##### On Windows
@@ -62,6 +63,8 @@ To start the execution, follow the steps below.
 
 ## Test Report
 Once test execution is completed, a nice and clean report will generate automatically by [mochawesome](https://github.com/adamgruber/mochawesome#readme) and a `.html` report can be found under `./mochawesome-report`. One snapshot is attached for reference.
+
+![Capture](https://user-images.githubusercontent.com/52617545/113041045-1dcdc780-91b7-11eb-8b41-c6bd1e70ab30.PNG)
 
 ## Test Scope
 #### Covered
