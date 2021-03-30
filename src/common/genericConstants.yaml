@@ -1,0 +1,3 @@
+errorMessage:
+  invalidMessageContent: 'Recipient address required'
+  invalidArgument: 'INVALID_ARGUMENT'

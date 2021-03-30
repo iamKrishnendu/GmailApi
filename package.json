@@ -1,0 +1,27 @@
+{
+  "name": "gmailplayground",
+  "version": "1.0.0",
+  "description": "This project is to test some basic functionalities on Gmail API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha './test/**/*.spec.js' --timeout 5000 --reporter mochawesome"
+  },
+  "author": "Krishnendu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "base-64": "^1.0.0",
+    "chai": "^4.3.4",
+    "dotenv": "^8.2.0",
+    "faker": "^5.5.1",
+    "googleapis": "^68.0.0",
+    "js-yaml": "^4.0.0",
+    "mocha": "^8.3.2",
+    "nodemailer": "^6.5.0",
+    "utf8": "^3.0.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "mochawesome": "^6.2.2"
+  }
+}
